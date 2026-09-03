@@ -10,6 +10,8 @@ I am a growing cybersecurity professional with a profound interest in technology
 Objective
 
 My journey into cybersecurity has led me to develop a strong interest in both offensive and defensive security. I am eager to build a career in cybersecurity, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst while developing expertise in vulnerability assessment, threat detection, incident response, and ethical security testing.
+
+Skills
 <!--
 **Victor-elumah/Victor-elumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
