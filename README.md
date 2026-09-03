@@ -1,7 +1,10 @@
-## Hi I'm Victor 👋
+## Hi, I'm Victor 👋
 www.linkedin.com/in/victor-elumah
+
 [Brief Introduction]
+
 I am a growing cybersecurity professional with a profound interest in technology, dedicated to solving complex problems and securing digital systems. Continuously building my skills through hands-on learning and professional cybersecurity training.
+
 Objective
 My journey into cybersecurity has led me to develop a strong interest in both offensive and defensive security. I am eager to build a career in cybersecurity, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst while developing expertise in vulnerability assessment, threat detection, incident response, and ethical security testing.
 <!--
